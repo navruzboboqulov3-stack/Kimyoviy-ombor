@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Kimyo",
+      "password": "$2a$10$ivxJoaJjWTXBFe7Kvsc7VeNRnRipMnaqzeyOXhX0QwWGYhJTJhYtG",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "bydombor",
+      "password": "$2a$10$arm7VrSjWspnrmBNHW9Kye1g3Frg0UC4AxDUAwmD1igadL/1DrXdW",
+      "role": "viewer"
+    }
+  ],
+  "materials": [],
+  "partiyalar": [],
+  "operations": [],
+  "ngRecords": [],
+  "certificates": [],
+  "counters": {
+    "materials": 0,
+    "partiyalar": 0,
+    "operations": 0,
+    "ngRecords": 0,
+    "certificates": 0
+  },
+  "passwordVersion": 23
+}

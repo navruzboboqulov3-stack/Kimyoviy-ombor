@@ -1,0 +1,415 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Kimyo",
+      "password": "$2a$10$ivxJoaJjWTXBFe7Kvsc7VeNRnRipMnaqzeyOXhX0QwWGYhJTJhYtG",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "bydombor",
+      "password": "$2a$10$arm7VrSjWspnrmBNHW9Kye1g3Frg0UC4AxDUAwmD1igadL/1DrXdW",
+      "role": "viewer"
+    }
+  ],
+  "materials": [
+    {
+      "id": 1,
+      "code": "12440091-00",
+      "name": "Refrigerant oil",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.469Z"
+    },
+    {
+      "id": 2,
+      "code": "10593321-00",
+      "name": "Adhesive tape",
+      "unit": "dona",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 3,
+      "code": "11440583-00",
+      "name": "Butyl adhesive",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 4,
+      "code": "11473360-00",
+      "name": "Butyl adhesive №2",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 5,
+      "code": "14181160-00",
+      "name": "Grease",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 6,
+      "code": "16890420-00",
+      "name": "Sealant",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 7,
+      "code": "12907230-00",
+      "name": "Gear oil",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 8,
+      "code": "11823919-00",
+      "name": "Brake fluid",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 18,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 9,
+      "code": "12204780-00",
+      "name": "Antifoaming paint",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 10,
+      "code": "13364491-00",
+      "name": "Cleaning agent",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 11,
+      "code": "13364492-00",
+      "name": "Glass adhesive underbody",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 12,
+      "code": "13364493-00",
+      "name": "Glass adhesive primer",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 13,
+      "code": "13364415-00",
+      "name": "Polyurethane glass adhesive",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 14,
+      "code": "15257960-00",
+      "name": "Coolant",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 18,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 15,
+      "code": "11388314-00",
+      "name": "Petrol",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 16,
+      "code": "10296700-00",
+      "name": "Refrigerant",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 17,
+      "code": "10820324-00",
+      "name": "Glass water",
+      "unit": "L",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 18,
+      "code": "13689000-00",
+      "name": "Lubricant",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 18,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 19,
+      "code": "12401914-00",
+      "name": "Grease",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 18,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 20,
+      "code": "17504551-00",
+      "name": "Lithium base grease",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 21,
+      "code": "10281222-00",
+      "name": "Sealant",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 22,
+      "code": "11222327-00",
+      "name": "Sealant №2",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 23,
+      "code": "10664330-00",
+      "name": "Structural adhesive",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.470Z"
+    },
+    {
+      "id": 24,
+      "code": "10568102-00",
+      "name": "Structural adhesive №2",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.471Z"
+    },
+    {
+      "id": 25,
+      "code": "11220026-00",
+      "name": "Expansion glue",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.471Z"
+    },
+    {
+      "id": 26,
+      "code": "10581467-00",
+      "name": "Finger pressure glue",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 12,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.471Z"
+    },
+    {
+      "id": 27,
+      "code": "12482442-00",
+      "name": "Structural adhesive №3",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.471Z"
+    },
+    {
+      "id": 28,
+      "code": "13758685-00",
+      "name": "Cavity anticorrosive wax",
+      "unit": "kg",
+      "minQty": 10,
+      "expiryMonths": 6,
+      "category": "oil",
+      "createdAt": "2026-01-04T18:31:23.471Z"
+    }
+  ],
+  "partiyalar": [
+    {
+      "id": 1,
+      "materialId": 6,
+      "expiryStart": "2026-01-05",
+      "expiryEnd": "2026-01-20",
+      "initialQty": 2000,
+      "currentQty": 1000,
+      "renewed": 0,
+      "createdAt": "2026-01-05T07:51:54.726Z"
+    },
+    {
+      "id": 2,
+      "materialId": 6,
+      "expiryStart": "2026-01-27",
+      "expiryEnd": "2026-02-05",
+      "initialQty": 1500,
+      "currentQty": 1500,
+      "renewed": 1,
+      "createdAt": "2026-01-05T07:52:17.291Z",
+      "renewedAt": "2026-01-05T07:57:00.427Z"
+    }
+  ],
+  "operations": [
+    {
+      "id": 1,
+      "materialId": 6,
+      "partiyaId": 1,
+      "type": "kirim",
+      "qty": 2000,
+      "date": "2026-01-05",
+      "note": "",
+      "createdAt": "2026-01-05T07:51:54.726Z"
+    },
+    {
+      "id": 2,
+      "materialId": 6,
+      "partiyaId": 2,
+      "type": "kirim",
+      "qty": 1500,
+      "date": "2026-01-05",
+      "note": "",
+      "createdAt": "2026-01-05T07:52:17.291Z"
+    },
+    {
+      "id": 3,
+      "materialId": 6,
+      "partiyaId": 1,
+      "type": "chiqim",
+      "qty": 1000,
+      "date": "2026-01-05",
+      "note": "",
+      "createdAt": "2026-01-05T07:53:01.836Z"
+    },
+    {
+      "id": 4,
+      "materialId": 6,
+      "partiyaId": 2,
+      "type": "ng",
+      "qty": 500,
+      "date": "2026-01-05",
+      "reason": "expired",
+      "note": "",
+      "createdAt": "2026-01-05T07:54:39.410Z"
+    },
+    {
+      "id": 5,
+      "materialId": 6,
+      "partiyaId": 2,
+      "type": "restore",
+      "qty": 500,
+      "date": "2026-01-05",
+      "note": "NG dan qaytarildi va muddat yangilandi: 2026-02-05",
+      "createdAt": "2026-01-05T07:57:00.427Z"
+    }
+  ],
+  "ngRecords": [
+    {
+      "id": 1,
+      "materialId": 6,
+      "partiyaId": 2,
+      "materialCode": "16890420-00",
+      "materialName": "Sealant",
+      "qty": 500,
+      "reason": "expired",
+      "note": "",
+      "date": "2026-01-05",
+      "expiryEnd": "2026-01-13",
+      "restored": 1,
+      "createdAt": "2026-01-05T07:54:39.410Z",
+      "restoredAt": "2026-01-05T07:57:00.427Z"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "materialId": 6,
+      "partiyaId": 2,
+      "materialCode": "16890420-00",
+      "materialName": "Sealant",
+      "fileName": "241016  ZS-9572ç»æè¶å»¶ææ¥å.pdf",
+      "filePath": "1767599820415-241016__ZS-9572_____________________.pdf",
+      "fileSize": 588147,
+      "newExpiryStart": "2026-01-27",
+      "newExpiryEnd": "2026-02-05",
+      "note": "",
+      "createdAt": "2026-01-05T07:57:00.427Z"
+    }
+  ],
+  "counters": {
+    "materials": 28,
+    "partiyalar": 2,
+    "operations": 5,
+    "ngRecords": 1,
+    "certificates": 1
+  },
+  "passwordVersion": 23
+}
